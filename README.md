@@ -9,10 +9,11 @@ I'm
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ekhattak.ekhattak) -->
 <br />
-<!-- ![Arsalan](/svg/emojis/arsalan.svg) -->
+![Arsalan](/svg/emojis/arsalan.svg)
+<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
 <p align="center">
-  <h3> I'm a Computer Science Junior and a Full Stack (MERN) Developer and open source contributor. Being MLH'20 Fellow, I'm active Next.Js Contributor. Writing down what I have learned and sharing it with others is what I love to do. I love to write and speak about new technologies.
-I am also an active member of technical communities. I am DSC LEAD and Microsoft Student Partner.</h3>
+   I'm a Computer Science Junior and a Full Stack (MERN) Developer and open source contributor. Being MLH'20 Fellow, I'm active Next.Js Contributor. Writing down what I have learned and sharing it with others is what I love to do. I love to write and speak about new technologies.
+I am also an active member of technical communities. I am DSC LEAD and Microsoft Student Partner.
 </p>
 
 <!-- Statistics -->
