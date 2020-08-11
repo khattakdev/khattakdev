@@ -9,6 +9,8 @@ I'm
 
 <br />
 <img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/emojis/arsalan.svg" />
+<br />
+<br />
 <p align="center">
    I'm a Computer Science Junior and a Full Stack (MERN) Developer and open source contributor. Being MLH'20 Fellow, I'm active Next.Js Contributor. Writing down what I have learned and sharing it with others is what I love to do. I love to write and speak about new technologies.
 I am also an active member of technical communities. I am DSC LEAD and Microsoft Student Partner.
