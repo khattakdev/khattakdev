@@ -8,7 +8,7 @@ I'm
 - Writer✒️
 
 <br />
-<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/emojis/arsalan.svg" />
+<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/emojis/arsalan.svg" />
 <br />
 <br />
 <p align="center">
@@ -20,7 +20,7 @@ I am also an active member of technical communities. I am DSC LEAD and Microsoft
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ekhattak&&show_icons=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=khattakdev&&show_icons=true"/>
   </a>
 </p>
 
@@ -32,22 +32,22 @@ I am also an active member of technical communities. I am DSC LEAD and Microsoft
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 ### - Others
 
 <p align="center">
   <a href="https://dev.to/khattakdev">
-    <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/blogs/devto.svg"> 
+    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/blogs/devto.svg"> 
   </a>
   <a href="https://anchor.fm/khattakdev">
-  <img src="https://raw.githubusercontent.com/ekhattak/ekhattak/master/svg/streaming/podcast.svg">
+  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/streaming/podcast.svg">
   </a>
 </p>
