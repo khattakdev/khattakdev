@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://user-images.githubusercontent.com/37709578/126893876-b46bb631-0d3c-42d9-a633-006b262de339.jpg)
 
-<p> I am a 22 year old techie from Pakistan <img src="https://user-images.githubusercontent.com/37709578/126893992-f3ea2e0f-5b32-495f-ba53-764663971376.png"/> and my motto is <b> Learn, build and Open Source </b> </p>
+<!-- <p> I am a 22 year old techie from Pakistan <img src="https://user-images.githubusercontent.com/37709578/126893992-f3ea2e0f-5b32-495f-ba53-764663971376.png"/> and my motto is <b> Learn, build and Open Source </b> </p> -->
 
 <p><a href="https://khattak.dev/"><img alt="http://Khattak.dev" align="center" src="https://img.shields.io/badge/-@KhattakDev-gray.svg?colorA=0F2A5F&colorB=0F2A5F&style=for-the-badge" /></a>&nbsp; Know more about me</p>
    
